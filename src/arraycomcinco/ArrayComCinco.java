@@ -12,6 +12,8 @@ public class ArrayComCinco {
 
 Logica lg = new Logica();
 lg.ArrayNotaMedia();
+lg.ArrayNotaMinima();
+lg.ArrayNotaMaxima();
     }
 
 }
