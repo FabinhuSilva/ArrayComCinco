@@ -22,16 +22,15 @@ public class ArrayComCinco {
             System.out.println("\n");
         }
   
-        //estanciando ARRAY
-        double CarregarNotas = new notas[5];
     }
 
     public ArrayComCinco() {
     }
     
-    public void ArrayNotaMedia(){
-        for(int contador=0;contador < notas.length;contador++){
-            
+    public void ArrayNotaMedia(double[] notas){
+        for(int cont=0:notas)
+        {
+            System.out.println(notas[cont]);   
         }
     }
     public void ArrayNotaMaxima(){
